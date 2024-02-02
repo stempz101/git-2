@@ -1,8 +1,8 @@
 'firstFile.txt' content
 'firstFile.txt' content
+'firstFile.txt' content | lorem ipsum dolor
 'firstFile.txt' content
-'firstFile.txt' content
-'firstFile.txt' content
+'firstFile.txt' content | lorem ipsum dolor
 'firstFile.txt' content
 'firstFile.txt' content
 'firstFile.txt' content
