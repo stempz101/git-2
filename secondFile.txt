@@ -2,9 +2,9 @@
 'secondFile.txt' content
 'secondFile.txt' content
 'secondFile.txt' content
+'secondFile.txt' content | dolor ipsum lorem
 'secondFile.txt' content
 'secondFile.txt' content
-'secondFile.txt' content
-'secondFile.txt' content
+'secondFile.txt' content | dolor ipsum lorem
 'secondFile.txt' content
 'secondFile.txt' content
