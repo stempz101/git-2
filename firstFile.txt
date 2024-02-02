@@ -1,10 +1,10 @@
-'firstFile.txt' content
-'firstFile.txt' content
-'firstFile.txt' content | lorem ipsum dolor
+'firstFile.txt' content | dolor ipsum lorem
 'firstFile.txt' content
 'firstFile.txt' content | lorem ipsum dolor
 'firstFile.txt' content
+'firstFile.txt' content | lorem ipsum dolor
 'firstFile.txt' content
+'firstFile.txt' content | dolor ipsum lorem
 'firstFile.txt' content
 'firstFile.txt' content
 'firstFile.txt' content
